@@ -7,10 +7,13 @@ Tested with over 50 News Articles and Op-Eds from NYTimes ::: English
 
 Given a snippet of text in English, French, German, or Spanish, detect the snippet's language and print the language name. 
 
+<ol>
 Requirements:
-1. Linux / Ubuntu 14.04 Machine Preferably. A Windows or a Mac would work equally fine.
-2. Python 2.7 (Built in Py 2.7.4 32-bit)
-3. NLTK Basic Installation*
-4. SciPy, NumPy, SciKit-Learn
-5. Reqs #3 and #4 can be satisfied automatically if you are using Anaconda/EPD Enthought Canopy
+<li> Linux / Ubuntu 14.04 Machine Preferably. A Windows or a Mac would work equally fine.</li> 
+<li> Python 2.7 (Built in Py 2.7.4 32-bit). </li> 
+<li> NLTK Basic Installation*</li> 
+<li> SciPy, NumPy, SciKit-Learn</li> 
+<li> Reqs #3 and #4 can be satisfied automatically if you are using Anaconda/EPD Enthought Canopy</li> 
+</ol>
 
+*Libraries/Corpus not required necessarily.
